@@ -1,0 +1,1 @@
+SELECT 'Hello TortoiseGit' FROM dual;
